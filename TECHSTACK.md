@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — نظام ERP لإدارة ومحاسبة الشركات
+# 🛠️ Technologies Used — ERP System for Company Management and Accounting
 
 - ASP.NET Core
 - Angular

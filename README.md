@@ -1,21 +1,21 @@
-# نظام ERP لإدارة ومحاسبة الشركات
-**Business ERP — Accounting & Operations** · التصنيف: منصة تجارية
+# ERP System for Company Management and Accounting
+**Business ERP — Accounting & Operations** · Category: Commercial platform
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
+> Project overview document (specifications and technologies) — source code is not included.
 > Project overview document — source code is not included.
 
-## نبذة عن المشروع
-نظام ERP لإدارة ومحاسبة الشركات يسهّل العمليات اليومية من المبيعات والمشتريات وضبط الجرد ومتابعة الفواتير والتقارير.
+## Project Overview
+An ERP system for company management and accounting that streamlines daily operations across sales, purchases, inventory control, invoice tracking, and reporting.
 
-## أبرز النقاط
-- مبيعات ومشتريات ومخزون ضمن نظام واحد مترابط
-- متابعة الفواتير وتقارير مالية دقيقة
-- صلاحيات حسب الدور وسجل تدقيق
+## Key Points
+- Sales, purchases, and inventory within a single integrated system
+- Invoice tracking and accurate financial reports
+- Role-based permissions and audit log
 
-## الدور
-مطوّر منصات أعمال: تحليل المتطلبات وبناء النظام ولوحة الإدارة وقاعدة البيانات والتقارير.
+## Role
+Business platforms developer: requirement analysis and building the system, admin panel, database, and reports.
 
-## التقنيات المستخدمة
+## Technologies Used
 ASP.NET Core, Angular, PostgreSQL, Redis, Docker, JWT, Swagger
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
